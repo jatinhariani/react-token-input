@@ -1,7 +1,7 @@
 {
-  "name": "react-customize-token-input",
+  "name": "@studiofrontier/react-token-input",
   "version": "2.6.2",
-  "description": "A react token (tag) input component. Allow customize data structure and Look & Feel",
+  "description": "A react token (tag) input component. Allow customize data structure and Look & Feel. Forked from seawind543/react-token-input",
   "keywords": [
     "react",
     "token",
@@ -38,8 +38,8 @@
     "type": "git",
     "url": "git@github.com:seawind543/react-token-input.git"
   },
-  "author": "Mark Lin <marklin1106@gmail.com>",
-  "homepage": "https://github.com/seawind543/react-token-input",
+  "author": "Studio Frontier <jatin@studiofrontier.com>",
+  "homepage": "https://github.com/jatinhariani/react-token-input",
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.10.2 || ^17.0.0 || ^18.0.0"
